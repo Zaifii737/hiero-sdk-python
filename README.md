@@ -159,3 +159,4 @@ We appreciate your interest in improving the Hiero Python SDK! Please see CONTRI
 ## License
 
 This project is licensed under the Apache License.
+Small doc fix: corrected a typo and clarified the install example.
